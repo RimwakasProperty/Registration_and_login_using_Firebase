@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45135762220",
+    "project_id": "catii-4a714",
+    "storage_bucket": "catii-4a714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45135762220:android:adc558ab63215753161289",
+        "android_client_info": {
+          "package_name": "com.example.catii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45135762220-tbphtdnr1l69ahld38mq0r14lv2a5leb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD740TlRm5IeeouKrSaDdNIqWgceprNBEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45135762220-tbphtdnr1l69ahld38mq0r14lv2a5leb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
